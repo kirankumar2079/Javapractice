@@ -20,4 +20,5 @@
 | Factorial          | Java program to find factorial of a number       | Nov 16 2024 |      | 
 | FactorialRecursive | Java program to find factorial using recursively | Nov 16 2024 |      | 
 | ReverseNumber      | Java program to reverse an integer number        | Nov 16 2024 |      | 
-| ReverseString      | Java program to reverse a string recursively     | Nov 16 2024 |      | 
+| ReverseString      | Java program to reverse a string                 | Dec 12 2024 |      | 
+| Prime number       | Java program to find a number is prime or not    | Nov 12 2024 |      | 
